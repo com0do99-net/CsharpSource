@@ -1,7 +1,0 @@
-c:\users\com0do99\documents\visual studio 2012\Projects\Source-Browser-Optimizer\Source-Browser-Optimizer\obj\Debug\Source-Browser-Optimizer.csprojResolveAssemblyReference.cache
-c:\users\com0do99\documents\visual studio 2012\Projects\Source-Browser-Optimizer\Source-Browser-Optimizer\obj\Debug\Source_Browser_Optimizer.Properties.Resources.resources
-c:\users\com0do99\documents\visual studio 2012\Projects\Source-Browser-Optimizer\Source-Browser-Optimizer\obj\Debug\Source-Browser-Optimizer.csproj.GenerateResource.Cache
-c:\users\com0do99\documents\visual studio 2012\Projects\Source-Browser-Optimizer\Source-Browser-Optimizer\bin\Debug\Source-Browser-Optimizer.exe
-c:\users\com0do99\documents\visual studio 2012\Projects\Source-Browser-Optimizer\Source-Browser-Optimizer\bin\Debug\Source-Browser-Optimizer.pdb
-c:\users\com0do99\documents\visual studio 2012\Projects\Source-Browser-Optimizer\Source-Browser-Optimizer\obj\Debug\Source-Browser-Optimizer.exe
-c:\users\com0do99\documents\visual studio 2012\Projects\Source-Browser-Optimizer\Source-Browser-Optimizer\obj\Debug\Source-Browser-Optimizer.pdb

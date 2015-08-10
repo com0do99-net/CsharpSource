@@ -1,7 +1,0 @@
-c:\users\com0do99\documents\visual studio 2012\Projects\Source-tunnelGUI\Source-tunnelGUI\bin\Debug\Source-tunnelGUI.exe
-c:\users\com0do99\documents\visual studio 2012\Projects\Source-tunnelGUI\Source-tunnelGUI\bin\Debug\Source-tunnelGUI.pdb
-c:\users\com0do99\documents\visual studio 2012\Projects\Source-tunnelGUI\Source-tunnelGUI\obj\Debug\Source-tunnelGUI.csprojResolveAssemblyReference.cache
-c:\users\com0do99\documents\visual studio 2012\Projects\Source-tunnelGUI\Source-tunnelGUI\obj\Debug\Source_tunnelGUI.Properties.Resources.resources
-c:\users\com0do99\documents\visual studio 2012\Projects\Source-tunnelGUI\Source-tunnelGUI\obj\Debug\Source-tunnelGUI.csproj.GenerateResource.Cache
-c:\users\com0do99\documents\visual studio 2012\Projects\Source-tunnelGUI\Source-tunnelGUI\obj\Debug\Source-tunnelGUI.exe
-c:\users\com0do99\documents\visual studio 2012\Projects\Source-tunnelGUI\Source-tunnelGUI\obj\Debug\Source-tunnelGUI.pdb
